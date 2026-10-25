@@ -1,0 +1,13 @@
+LlamaIndex is a framework for building LLM applications over your own data.
+
+It helps load, index, and retrieve documents so that an LLM can answer questions based on the content in those files.
+
+CrewAI is a framework for orchestrating multiple specialized AI agents to collaborate on tasks.
+
+Together, these tools help you build systems that blend retrieval and orchestration:
+- search over private documents
+- organize research tasks
+- summarize outputs
+- delegating work across roles
+
+This sample file is intentionally short so it can be used as a tiny knowledge base for the demo scripts in this repository.
